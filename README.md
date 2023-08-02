@@ -2,7 +2,13 @@
 
 ## Descrição do diretório .git
 
->config:Este diretório contém as configurações específicas do repositório Git, como o nome e o endereço de e-mail do autor padrão, opções de formatação e outras configurações.
+>Comandos
+(git restore --staged) volta da Stage
+(git add .) Sobe para a Stage
+(git commit -m 'Descrever a versão e a atualização')
+(git push) sobe para o git
+
+>config Este diretório contém as configurações específicas do repositório Git, como o nome e o endereço de e-mail do autor padrão, opções de formatação e outras configurações.
 
 >description: Este arquivo é usado pelo GitWeb, uma ferramenta para visualizar repositórios Git através de um navegador da web. Ele geralmente contém uma descrição curta do repositório.
 
