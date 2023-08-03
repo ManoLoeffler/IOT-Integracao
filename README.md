@@ -19,6 +19,8 @@ atualização')
 
 >(git rm --cached (pasta)) remove a pasta do repositório remoto
 
+>(cat .gitinore) Visualiza os arquivos no terminal
+
 > "CD .." volta /// "CD (pasta)" entra /// "Ls" lista /// "touch (arquivo)" Cria ///
 
 >config Este diretório contém as configurações específicas do repositório Git, como o nome e o endereço de e-mail do autor padrão, opções de formatação e outras configurações.
