@@ -3,10 +3,12 @@
 ## Descrição do diretório .git
 
 >Comandos
-(git restore --staged) volta da Stage
-(git add .) Sobe para a Stage
-(git commit -m 'Descrever a versão e a atualização')
-(git push) sobe para o git
+>(git restore --staged) volta da Stage
+>(git add .) Sobe para a Stage
+>(git commit -m 'Descrever a versão e a atualização')
+>(git push) sobe para o git
+>(git log) Histórico de alterações
+>(git show) De-para de arquivos (antes e dps)
 
 >config Este diretório contém as configurações específicas do repositório Git, como o nome e o endereço de e-mail do autor padrão, opções de formatação e outras configurações.
 

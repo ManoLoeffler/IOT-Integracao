@@ -1,0 +1,17 @@
+[33mcommit d0c4282be0d5642c9f1de3b94d1cc3632064354a[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Lucas Loeffler <lucasgloeffler@gmail.com>
+Date:   Wed Aug 2 20:21:02 2023 -0300
+
+    V1.1 atualização dos novos comandos de commit
+
+[33mcommit f9e8f68138bc1167e54de0a2ab70ac158a4d61af[m
+Author: Lucas Loeffler <lucasgloeffler@gmail.com>
+Date:   Wed Aug 2 20:17:09 2023 -0300
+
+    V1.0 Adicionar comandos e significados dos diretorios
+
+[33mcommit 628ff97dda9d09cfa8c3931e51456869a01c5579[m
+Author: Lucas Loeffler <127907879+ManoLoeffler@users.noreply.github.com>
+Date:   Wed Aug 2 19:28:08 2023 -0300
+
+    Initial commit
