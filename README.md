@@ -2,7 +2,7 @@
 
 ## Descrição do diretório .git
 
->Comandos
+>Comandos do git
 
 >(git restore --staged) volta da Stage
 
